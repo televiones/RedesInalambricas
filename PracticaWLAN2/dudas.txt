@@ -1,0 +1,4 @@
+-Como se si un AP accede a asociarse o no
+-6a -> ultima --> primer router??
+-7 -> sí, por qué?
+8-> nav????? -> donde se ve en wireshark
